@@ -20,6 +20,10 @@ How to Use
     Delete a Task: Swipe a task left or right to delete it from the list.
     The tasks will be saved and persist even after the app is closed and reopened, thanks to Room Database.
 
+To-Do
+
+    Delete Task: The ability to delete tasks from the list (currently not implemented). This will be added in a future update, with options like swiping to delete or a delete button on each task.
+
 License
 
 This app is open-source and free to use. You can modify or redistribute it under the terms of the MIT License.
